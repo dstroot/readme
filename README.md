@@ -88,3 +88,15 @@ Take this document with a grain of salt: I wrote it! I have never experienced ha
 ## Notes
 
 <a id="note1">1.</a> Caveat here is if you're hoping to meet with folks in offices on different time zones—if that's the case, you should try as much as you can to find a meeting time that works for both time zones.
+
+## Nuance and Errata
+
+* **I am an introvert** and that means that prolonged exposure to people is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
+
+* **If/When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance**. I might still be brainstorming. These questions can save everyone a lot of time.
+
+* **Ask assertive versus tell assertive**. When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid and I probably need therapy.
+
+* People stating opinions as facts are a trigger for me.
+
+* People who gossip are a trigger for me.
