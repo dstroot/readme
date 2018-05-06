@@ -1,14 +1,26 @@
-# readme
-The following is a user guide for me and how I work. 
+# Dan Stroot User Guide
 
+The following is a user guide for me and how I work. This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
 
-# Hi, I'm Molly
+## My Principles
 
-I'm looking forward to getting to know you, and this document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
+* **People first**. I believe that happy, informed, and productive people do their best work. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
-## My role as a tech lead
+* **Leadership comes from everywhere**. My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
 
-TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to help our customers, improve our product, and improve our business. More granularly:
+* **I see things as systems**. I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+
+* **Fairness is essential and creates trust**. I believe that most people are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
+
+* **I heavily bias towards action**. Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
+
+* **I believe in the compounding awesomeness of continually fixing small things**. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
+
+I start with an assumption of positive intent for all involved. This has worked out well for me over my career.
+
+## My role
+
+TL;DR: I am here to ...  More granularly:
 
 1.  I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
 2.  I am here to make sure our team is successful and pointed in the right direction. You might hear Dharmesh talking about [aligning vectors](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3): I am here to make sure our team is all aligned and pushing in the same direction.
