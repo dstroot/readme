@@ -73,7 +73,9 @@ I will put some time on your calendar each week for one-on-ones. Chances are it 
 * Status can be communicated via email or other means
 * If something is holding you back **do not save it for a 1:1**. Call me, slack m, email me but let's get it addressed.
 
-One-on-ones are _your time_. I will have some things to discuss with you, but these are your opportunities to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. 
+I see 1:1s as your opportunity to let me know how you're doing and what you need. It's time for us to align on goals/outcomes and direction.
+
+The best 1:1s I’ve had have focused beyond the moment: Your career development, team strategy and opportunity, the company's strategy, etc. Feel free to come with a topic you’d like to discuss. I’d love it if you spent a few minutes beforehand preparing so that we can get the most of our time. 
 
 ## Work–life balance
 
@@ -91,10 +93,6 @@ I will give you feedback on how you're doing in our one-on-ones. If I'm worried 
 
 * **If/When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance**. I might still be brainstorming. These questions can save everyone a lot of time.
 
-* **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties. I value candor, and I am not big on small talk. I've always been this way.
+* **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties. I value candor, I am poor at expressing empathy, and I am not big on small talk. I've always been this way. I probably need therapy.
 
-* **Ask assertive versus tell assertive**. When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Dan, can you help with X?”). I respond poorly to being told what to do. I have been this way since I was a kid and I probably need therapy.
-
-* People stating opinions as facts are a trigger for me.
-
-* People who gossip are a trigger for me.
+* People who gossip and/or "stir things up" are a trigger for me.
