@@ -7,7 +7,7 @@ The following is a user guide for me and how I work. This document is not intend
 
 ## Caveat
 
-Take this document with a grain of salt - some of this may be aspirational. If you find me not living up to my principles please point it out to me.  I need feedback to course correct as well all do. Speaking of feedback...
+Take this document with a grain of salt - some of this is aspirational. If you find me not living up to my principles please point it out to me.  I need feedback to course correct as we all do. Speaking of feedback...
 
 ## Feedback
 
@@ -27,19 +27,19 @@ If you're not comfortable giving me this feedback yourself, you can give it to s
 
 ## My Principles
 
-* **People first**. I believe that happy, informed, and productive people do their best work. Ideological diversity is key to an effective team. All perspectives are relevant. My bias is towards nurturing happy people. My job is attract and retain world-class talent (that's you) and this coupled with meaningful work "works".
+* **People first**. I believe that happy, informed, and productive people do their best work. Ideological diversity is key to an effective team. All perspectives are relevant. My bias is towards nurturing happy people. My job is attract and retain world-class talent (that's you) and let you loose on meaningful work. We need great people if we want great customers and a great business.
 
-* **Customer first**. When creating a business that rewards us, and allows us to attract world-class talent, we need to optimize for the customer first, then the product, and finally the project or sprint. Measure delivery in terms of how it benefits the customer and use this as your main metric.
+* **Customer first**. When creating a business that rewards us, and allows us to attract world-class talent, we need to optimize for the customer first, then the product, and finally the project or sprint. We will measure delivery in terms of how it benefits the customer and use this as our main metric.
 
-* **Leadership comes from everywhere**. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities for non-managers to lead.
+* **Leadership comes from everywhere**. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of scaling an organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities for non-managers to lead.
 
-* **I see things as systems**. I understand things visually. I think in flowcharts. I take great joy in attempting to understand how things all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+* **I see things as systems**. I understand things visually. I think in flowcharts. I take great joy in attempting to understand how things all fit together. Basically, I love whiteboards and pictures.
 
-* **Fairness is essential and creates trust**. I believe that most people are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
+* **Fairness is essential and creates trust**. I believe in fairness and equality. Enough said.
 
 * **Honesty is essential and creates trust.** I bias toward transparency and candor.  You can ask me anything. I'll always answer as best I can.  Rarely, I won't be able to give you an answer. This company, or regulatory requirements, may require me to not tell you about something, but I will never lie to you.
 
-* **I lean heavily towards action**. Long meetings debating potential directions can be valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. However, I find the things I learn along the way inform me better than vigorous debate and I simply believe that not everything is known "up front".
+* **I lean heavily towards action**. Long meetings debating potential directions can be valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. However, I find the things I learn along the way inform me better than vigorous debate and I simply believe that not everything is known, or can be known "up front".
 
 * **I believe in defining "done" up front**.  I have found that the definition of "done" can vary widely between people. For example I sometimes cook at home. My definition of done is when the meal is served. My wife's definition of done is when the the kitchen is clean. Who knew? Unless we agree on what "done" means there will be unnecessary friction.
 
@@ -49,29 +49,20 @@ If you're not comfortable giving me this feedback yourself, you can give it to s
 
 ## My role
 
-TL;DR: I am here to ...  More granularly:
-
-1.  I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
-2.  I am here to make sure our team is successful and pointed in the right direction. You might hear Dharmesh talking about [aligning vectors](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3): I am here to make sure our team is all aligned and pushing in the same direction.
-3.  I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us.
-4.  I write some code too :smiley:
-
-These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, writing code will most likely not be my top priority.
-
-Additionally: My job is _not_ to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team. I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it. When I asked some other people for feedback on this README, one asked about this point, and then said something I thought was poignant: "I am _accountable_ for the decisions the team make, even if I’m not the one making them most of the time."
+TL;DR: I am here to make sure you are successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission. My job is _not_ to tell you exactly what to do and how to do it. It is also not to always be the "official decision maker". However I am _accountable_ for the decisions the team makes, even if I’m not always the one making them. Sometimes I do have to make the hard calls.  
 
 ## Schedule
 
 I am usually in the office early. I like the momentum an early start gives me each day.
 
-As for your schedule: do what works for you, but use good judgment. I want to bias towards results not "time in chair".  The way we align on expected results is:
+As for your schedule: do what works for you, but use good judgment. I bias towards results, not "time in chair".  The way we align on expected results is:
 
 ## One-on-ones
 
 I will put some time on your calendar each week for one-on-ones. Chances are it will be for 30 minutes once a week. If you need more time, let me know and I will adjust.
 
 * Status can be communicated via email or other means
-* If something is holding you back **do not save it for a 1:1**. Call me, slack m, email me but let's get it addressed.
+* If something is holding you back **do not save it for a 1:1**. Call me, slack me, email me but let's get it addressed.
 
 I see 1:1s as your opportunity to let me know how you're doing and what you need. It's time for us to align on goals/outcomes and direction.
 
@@ -79,20 +70,16 @@ The best 1:1s I’ve had have focused beyond the moment: Your career development
 
 ## Work–life balance
 
-I strongly believe in a healthy work–life balance. Let me know if you need any help to make this work. I don't want you working ridiculous hours, and I don't want you working at the expense of your family/health/beliefs/etc.
-
-If you are unhappy, please let me know.
+I strongly believe in a healthy work–life balance. Let me know if you need any help to make this work. If you feel you are working at the expense of your family/health/beliefs/etc. then we need to talk. 
 
 ## Performance
 
 I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, let's discuss it.
 
-## Nuance and Errata
+## Nuance
 
 * **I am an introvert** and that means that prolonged exposure to people is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I become strangely quiet. Do not confuse my quiet with lack of engagement.
 
-* **If/When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance**. I might still be brainstorming. These questions can save everyone a lot of time.
+* **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties. I value candor, sometimes I am poor at expressing empathy, and I am not big on small talk. I've always been this way. I probably need therapy.
 
-* **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties. I value candor, I am poor at expressing empathy, and I am not big on small talk. I've always been this way. I probably need therapy.
-
-* People who gossip and/or "stir things up" are a trigger for me.
+* **People who create drama are a trigger for me**. Some people like to gossip and "stir things up".  That's not how I am wired and I find it takes away team cohesiveness. "Attitude determines your altitude".  
