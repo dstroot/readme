@@ -49,7 +49,7 @@ If you're not comfortable giving me this feedback yourself, you can give it to s
 
 ## My role
 
-TL;DR: I am here to make sure you are successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission. My job is _not_ to tell you exactly what to do and how to do it. It is also not to always be the "official decision maker". However I am _accountable_ for the decisions the team makes, even if I’m not always the one making them. Sometimes I do have to make the hard calls.  
+TL;DR: I am here to make sure you are successful and happy: I want you to improve your technical and leadership skills, grow your career, enjoy your work, and believe in both our team's and our company's mission. Generally we will make decisions and set priorities as a management team - together we are more perceptive and intelligent than any one of us alone. However I am _accountable_ for the decisions the team makes, so sometimes I do have to make the hard calls. In all cases your input and counsel is invaluable.  
 
 ## Schedule
 
@@ -82,4 +82,4 @@ I will give you feedback on how you're doing in our one-on-ones. If I'm worried 
 
 * **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties. I value candor, sometimes I am poor at expressing empathy, and I am not big on small talk. I've always been this way. I probably need therapy.
 
-* **People who create drama are a trigger for me**. Some people like to gossip and "stir things up".  That's not how I am wired and I find it takes away team cohesiveness. "Attitude determines your altitude".  
+* **People who create drama are a trigger for me**. Some people like to gossip and "stir things up". That's not how I am wired and I find it takes away from team cohesiveness and focus. I highly value people who are rational problem solvers, and when things go astray look to find and communicate factual information, not hearsay. "Attitude determines your altitude".  
