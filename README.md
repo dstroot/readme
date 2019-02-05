@@ -27,7 +27,7 @@ If you're not comfortable giving me this feedback yourself, you can give it to s
 
 ## My Principles
 
-- **People first**. I believe that happy, informed, and productive people do their best work. Ideological diversity is key to an effective team. All perspectives are relevant. My bias is towards nurturing happy people. My job is attract and retain world-class talent (that's you) and let you loose on meaningful work. We need great people if we want great customers and a great business.
+- **People first**. I believe that happy, informed people do their best work. Ideological diversity is key to an effective team. All perspectives are relevant. My bias is towards nurturing happy people. A leader's job is attract and retain world-class talent (that's you) and let you loose on meaningful work. We need great people if we want great customers and a great business.
 
 - **Customer first**. When creating a business that rewards us, and allows us to attract world-class talent, we need to optimize for the customer first, then the product, and finally the project or sprint. We will measure delivery in terms of how it benefits the customer and use this as our main metric.
 
@@ -35,7 +35,7 @@ If you're not comfortable giving me this feedback yourself, you can give it to s
 
 - **I see things as systems**. I understand things visually. I think in flowcharts. I take great joy in attempting to understand how things all fit together. Basically, I love whiteboards and pictures.
 
-- **Fairness is essential and creates trust**. I believe in fairness and equality. Enough said.
+- **Fairness is essential and creates trust**. I believe deeply in fairness and equality.
 
 - **Honesty is essential and creates trust.** I bias toward transparency and candor. You can ask me anything. I'll always answer as best I can. Rarely, I won't be able to give you an answer. This company, or regulatory requirements, may require me to not tell you about something, but I will never lie to you.
 
@@ -55,7 +55,7 @@ TL;DR: I am here to make sure you are successful so we are successful. This is a
 
 I am usually in the office early. I like the momentum an early start gives me each day.
 
-As for your schedule: do what works for you, but use good judgment. I bias towards results, not "time in chair". The way we align on expected results is:
+As for your schedule: do what works for you. I bias towards results, not "time in chair". The way we align on expected results is:
 
 ## One-on-ones
 
