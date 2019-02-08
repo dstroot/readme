@@ -23,7 +23,7 @@ Let me know if we do not well on any of these three dimensions and any suggestio
 
 If you can give me feedback in-person, I'd prefer that. If you're only comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
 
-If you're not comfortable giving me this feedback yourself, you can give it to someone above me so they can anonymously relay it to me and I can work on it.
+If you're not comfortable giving me feedback yourself that's perfectly OK, you can give it to someone above me so they can anonymously relay it to me and I can work on it.
 
 ## What Motivates Me
 
