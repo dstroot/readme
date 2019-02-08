@@ -29,6 +29,8 @@ If you're not comfortable giving me this feedback yourself, you can give it to s
 
 My personality type is "Virtuoso" (no I didn't make that up - you can [test yourself](https://www.16personalities.com) here). I am quoting below but as I read their description of myself I had to smile - it was uncannily accurate.  
 
+![personality](/personality.png)
+
 _"People with this personality type are natural Makers, moving from project to project, building the useful and the superfluous for the fun of it, and learning from their environment as they go. Often mechanics and engineers, Virtuosos find no greater joy than in getting their hands dirty pulling things apart and putting them back together, just a little bit better than they were before._
 
 _Virtuosos explore ideas through creating, troubleshooting, trial and error and first-hand experience. They enjoy having other people take an interest in their projects and sometimes don’t even mind them getting into their space. Of course, that’s on the condition that those people don’t interfere with Virtuosos’ principles and freedom, and they’ll need to be open to Virtuosos returning the interest in kind._
