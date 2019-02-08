@@ -69,7 +69,7 @@ This is a team sport. Generally we will make decisions and set priorities as a m
 
 I am usually in the office early. I like the momentum an early start gives me each day.
 
-As for your schedule: do what works for you. I bias towards results, not "time in chair". The way we align on expected results is:
+As for your schedule: do what works for you. I bias towards results. The way we align on expected results is:
 
 ## One-on-ones
 
