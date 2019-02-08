@@ -25,6 +25,16 @@ If you can give me feedback in-person, I'd prefer that. If you're only comfortab
 
 If you're not comfortable giving me this feedback yourself, you can give it to someone above me so they can anonymously relay it to me and I can work on it.
 
+## What Motivates Me
+
+My personality type is "Virtuoso" (no I didn't make that up - you can [test yourself](https://www.16personalities.com) here). I am quoting below but as I read their description of myself I had to smile - it was uncannily accurate.  
+
+_"People with this personality type are natural Makers, moving from project to project, building the useful and the superfluous for the fun of it, and learning from their environment as they go. Often mechanics and engineers, Virtuosos find no greater joy than in getting their hands dirty pulling things apart and putting them back together, just a little bit better than they were before._
+
+_Virtuosos explore ideas through creating, troubleshooting, trial and error and first-hand experience. They enjoy having other people take an interest in their projects and sometimes don’t even mind them getting into their space. Of course, that’s on the condition that those people don’t interfere with Virtuosos’ principles and freedom, and they’ll need to be open to Virtuosos returning the interest in kind._
+
+_Virtuosos enjoy lending a hand and sharing their experience, especially with the people they care about, and it’s a shame they’re so uncommon, making up only about five percent of the population."_
+
 ## My Principles
 
 - **People first**. I believe that happy, informed people do their best work. Ideological diversity is key to an effective team. All perspectives are relevant. My bias is towards nurturing happy people. A leader's job is attract and retain world-class talent (that's you) and let you loose on meaningful work. We need great people if we want a great business.
