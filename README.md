@@ -29,7 +29,7 @@ If you're not comfortable giving me this feedback yourself, you can give it to s
 
 My personality type is "Virtuoso" (no, I didn't make that up and you can [test yourself here.](https://www.16personalities.com)). 
 
-I am quoting below but the description is uncannily accurate. I laughed out loud when I read the quote "Oh, I know how to fix this" in the graphic. I **love** fixing things! I am also full of contradictions. I am introverted **and** assertive. Weird, right?  
+I am quoting below but the description is uncannily accurate. I laughed out loud when I read the quote "Oh, I know how to fix this" in the graphic. I **love** fixing things!  
 
 ![personality](https://raw.githubusercontent.com/dstroot/readme/master/personality.PNG)
 
