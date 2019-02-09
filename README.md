@@ -53,7 +53,7 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 - **Honesty is essential and creates trust.** I bias toward transparency and candor. You can ask me anything. I'll always answer as best I can. Rarely, I won't be able to give you an answer. The company, or regulatory requirements, may require me to not tell you about something, but I will never lie to you.
 
-- **I lean heavily towards action**. Long meetings debating potential directions can be valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. However, I find the things I learn along the way inform me better than vigorous debate and I simply believe that not everything is known, or can be known "up front".
+- **I lean heavily towards action**. Long meetings debating potential directions can be valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. However, I find the things I learn along the way inform me better than debate and I simply believe that not everything can be known "up front".
 
 - **I believe in defining "done" up front**. I have found that the definition of "done" can vary widely between people. For example I sometimes cook at home. My definition of done is when the meal is served. My wife's definition of done is when the the kitchen is clean. Who knew? Unless we agree on what "done" means there will be unnecessary friction.
 
@@ -86,14 +86,10 @@ The best 1:1s are focused beyond the moment: Your career development, team strat
 
 I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, let's discuss it!
 
-## Work–life balance
-
-I strongly believe in a healthy work–life balance. Let me know if you need any help to make this work. If you feel you are working at the detriment of your family/health/etc. then we need to talk.
-
 ## Nuance
 
 - **I am an introvert** and that means that prolonged exposure to people is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I become strangely quiet. Do not confuse my quiet with lack of engagement. I also need quiet reflective time to recharge my batteries. Sometimes I close the door to my office in order to do that, so if my door is closed it's probably for some "me" time. Mostly my door is wide open and it's "you" time.
 
-- **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties. I value candor, sometimes I am poor at expressing empathy, and I am not big on small talk. I've always been this way. I probably need therapy.
+- **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties (I am not great at small talk). I value candor and the "bottom line up front" (BLUF). Sometimes when people tell me stories I get impatient for them to "land the plane".  I've always been this way. I probably need therapy.
 
-- **People who create drama are a trigger for me**. Some people like to "stir things up". That's not how I am wired and I find it takes away from team cohesiveness and focus. I highly value people who are rational problem solvers, and when things go astray look to find and communicate factual information, not hearsay. I love people who focus on root cause analysis and forward progress instead of assigning blame.
+- **People who create drama are a trigger for me**. Some people like to "stir things up". That's not how I am wired and I find it takes away from team cohesiveness and focus. I highly value people who are motivated by forward progress (not fear). I respect rational problem solvers, and when things go astray look to find and communicate factual information, not hearsay. I love people who focus on root cause analysis instead of assigning blame.
