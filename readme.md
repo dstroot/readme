@@ -43,7 +43,7 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 - **People first**. My bias is towards nurturing happy people. I believe that happy, informed people do their best work. Ideological diversity is key to an effective team. All perspectives are relevant. A leader's job is attract and retain remarkable talent, with diverse views, and channel it into something that "moves the needle". We need great people if we want a great business.
 
-- **Customer first**. When creating a business that rewards us, and allows us to attract world-class talent, we need to optimize for the customer first, then the product. I am used to measuring delivery and results in terms of how they benefit the customer and using this as our main benchmark. I recognize that I will need to do some self-education to understand how we view and define our customers.
+- **Customer first**. When creating a business that rewards us, and allows us to attract outstanding talent, we need to optimize for the customer first, then the product. I am used to measuring delivery and results in terms of how they benefit the customer and using this as our main benchmark. I recognize that I will need to do some self-education to understand how we view and define our customers.
 
 - **Leadership comes from everywhere**. As an engineer, I remain skeptical of "management" even as a manager. While I believe managers are an essential part of scaling an organization, I don’t believe they have a monopoly on intelligence or leadership, and I like to find other constructs and opportunities for non-managers to lead.
 
@@ -51,9 +51,11 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 - **Fairness is essential and creates trust**. I believe deeply in fairness and equality.
 
-- **Honesty is essential and creates trust.** I bias toward transparency and candor. You can ask me anything. I'll always answer as best I can. Rarely, I won't be able to give you an answer. The company, or regulatory requirements, may require me to not tell you about something, but I will never lie to you.
+- **Honesty is essential and creates trust.** I bias toward transparency and candor. You can ask me anything. I'll always answer as best I can. Rarely, I won't be able to give you an answer. The company, or regulatory requirements, may prevent me from sharing something, but I will never lie to you.
 
 - **I bias heavily towards action**. Long meetings debating potential directions or options can be valuable, but I believe starting is the best way to begin learning and make progress. This strategy sometimes fails. This strategy annoys those who like to debate. However, I find the things I learn along the way inform me better than debating, and I simply believe that not everything can be known "up front". I'd much rather start moving and course correct as I learn along the way.
+
+- **Many paths lead to the same destination**. Waze reminds me of this all the time - there is not a single "right" path. The most important thing to align on is our **destination**. Sometimes we believe our approach is the only "right" answer so we dig in. I can get stuck here. When I find myself thinking this way I try to re-focus on the destination, or the "definition of done".
 
 - **I believe in defining "done" up front**. I have found that the definition of "done" can vary widely between people. For example I sometimes cook at home. My definition of done is when the meal is served. My wife's definition of done is when the the kitchen is clean. Who knew? Unless we agree on what "done" means there will be unnecessary friction.
 
@@ -63,7 +65,7 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 ## My role
 
-This is a team sport. Generally we will make decisions and set priorities as a management team - together we are more perceptive and intelligent than any one of us alone. However, sometimes I do make the hard calls. In all cases your input and counsel is invaluable to me.
+This is a team sport. Generally we will make decisions and set priorities as a management team - together we are more perceptive and intelligent than any one of us individually. Occasionally I make a hard call. In all cases your input and counsel is invaluable to me.
 
 ## Schedule
 
