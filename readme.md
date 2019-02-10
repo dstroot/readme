@@ -29,7 +29,7 @@ If you're not comfortable giving me feedback yourself that's perfectly OK, you c
 
 My personality type is "Virtuoso" (no, I didn't make that up and you can [test yourself here.](https://www.16personalities.com)).
 
-I copied the description from the website below because it is uncannily accurate. I laughed out loud when I read the quote "Oh, I know how to fix this" in the graphic. I **love** fixing things! I was the kid who took apart all his toys to see how they worked. I "borrowed" my father's tools - he was frustrated with me until Mom told him he could solve the problem by buying me my own tools (she's brilliant). I built forts, tree houses, go karts, and skate ramps. In high school I learned to weld in metal shop so I added a sidecar to my bike. Good times!
+I copied the description below because it is uncannily accurate. I laughed out loud when I read the quote "Oh, I know how to fix this" in the graphic. I **love** fixing things! I was the kid who took apart all his toys to see how they worked. I "borrowed" my father's tools - he was so frustrated with me until Mom told him he could solve the problem by buying me my own tools (she's brilliant). I built forts, tree houses, go karts, and skate ramps. In high school I learned to weld in metal shop so I added a sidecar to my bike. Good times! I proudly hang the maker manifesto in my office.
 
 ![personality](https://raw.githubusercontent.com/dstroot/readme/master/personality.png)
 
@@ -81,10 +81,6 @@ I will put some time on your calendar for one-on-ones. Chances are it will be fo
 I see 1:1s as your opportunity to let me know how you're doing and what you need. It's time for us to align on goals/outcomes and direction.
 
 The best 1:1s are focused beyond the moment: Your career development, team strategy and opportunity, the company's strategy, etc. Feel free to come with a topic you’d like to discuss. I’d love it if you spent a few minutes beforehand preparing so that we can get the most of our time.
-
-## Performance
-
-I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, let's discuss it!
 
 ## Nuance
 
