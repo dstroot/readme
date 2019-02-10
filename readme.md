@@ -1,13 +1,13 @@
 # Dan Stroot User Guide
 
-The following is a user guide for me and how I work. Its intention is to give you an idea of how I think and how I work.
+The following is a user guide for me. Its intention is to give you an idea of how I think and how I work.
 
 > “Every person in your company is a vector. Your progress is determined by the sum of all vectors.”
 >  — Elon Musk
 
 ## Caveat
 
-Take this with a grain of salt - some of it is aspirational. If you find me not living up to my principles please point it out to me. I need feedback to course correct as we all do. Speaking of feedback...
+Take this with a grain of salt - some of it is aspirational. If you find me not living up to my principles please point it out to me. I need feedback to course correct as we all do.
 
 ## Feedback
 
@@ -89,3 +89,5 @@ The best 1:1s are focused beyond the moment: Your career development, team strat
 - **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties (I am not great at small talk). I value candor and the "bottom line up front" (BLUF). Sometimes when people tell me stories I get impatient for them to make their point and "land the plane". I've always been this way (I probably need therapy).
 
 - **People who create drama are a trigger for me**. Some people enjoy "stirring things up". That's not how I am wired and I find it takes away from team cohesiveness and focus. I value people who are motivated by forward progress (not fear). I respect rational problem solvers, and when things go astray look to find and communicate factual information, not hearsay. I love people who focus on root causes instead of assigning blame.
+
+Cheers for reading this!
