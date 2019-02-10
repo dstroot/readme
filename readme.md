@@ -1,13 +1,13 @@
 # Dan Stroot User Guide
 
-The following is a user guide for me and how I work. This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
+The following is a user guide for me and how I work. Its intention is to give you an idea of how I think and how I work.
 
 > “Every person in your company is a vector. Your progress is determined by the sum of all vectors.”
 >  — Elon Musk
 
 ## Caveat
 
-Take this document with a grain of salt - some of this is aspirational. If you find me not living up to my principles please point it out to me. I need feedback to course correct as we all do. Speaking of feedback...
+Take this with a grain of salt - some of it is aspirational. If you find me not living up to my principles please point it out to me. I need feedback to course correct as we all do. Speaking of feedback...
 
 ## Feedback
 
@@ -43,9 +43,9 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 - **People first**. My bias is towards nurturing happy people. I believe that happy, informed people do their best work. Ideological diversity is key to an effective team. All perspectives are relevant. A leader's job is attract and retain remarkable talent, with diverse views, and channel it into something that "moves the needle". We need great people if we want a great business.
 
-- **Customer first**. When creating a business that rewards us, and allows us to attract world-class talent, we need to optimize for the customer first, then the product. I am used to measuring delivery and results in terms of how they benefit the customer and using this as our main benchmark.
+- **Customer first**. When creating a business that rewards us, and allows us to attract world-class talent, we need to optimize for the customer first, then the product. I am used to measuring delivery and results in terms of how they benefit the customer and using this as our main benchmark. I recognize that I will need to do some self-education to understand how we view and define our customers.
 
-- **Leadership comes from everywhere**. As an engineer, I remain skeptical of "management" even as a manager. While I believe managers are an essential part of scaling an organization, I don’t believe they have a monopoly on leadership, and I like to find other constructs and opportunities for non-managers to lead.
+- **Leadership comes from everywhere**. As an engineer, I remain skeptical of "management" even as a manager. While I believe managers are an essential part of scaling an organization, I don’t believe they have a monopoly on intelligence or leadership, and I like to find other constructs and opportunities for non-managers to lead.
 
 - **I see things as systems**. I understand things visually. I think in flowcharts. I take great joy in attempting to understand how things all fit together. Basically, I love whiteboards and pictures. Words usually make me sleepy.
 
@@ -53,7 +53,7 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 - **Honesty is essential and creates trust.** I bias toward transparency and candor. You can ask me anything. I'll always answer as best I can. Rarely, I won't be able to give you an answer. The company, or regulatory requirements, may require me to not tell you about something, but I will never lie to you.
 
-- **I bias heavily towards action**. Long meetings debating potential directions or options can be valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate. However, I find the things I learn along the way inform me better than debating and I simply believe that not everything can be known "up front". I'd much rather start moving and course correct as I learn along the way.
+- **I bias heavily towards action**. Long meetings debating potential directions or options can be valuable, but I believe starting is the best way to begin learning and make progress. This strategy sometimes fails. This strategy annoys those who like to debate. However, I find the things I learn along the way inform me better than debating, and I simply believe that not everything can be known "up front". I'd much rather start moving and course correct as I learn along the way.
 
 - **I believe in defining "done" up front**. I have found that the definition of "done" can vary widely between people. For example I sometimes cook at home. My definition of done is when the meal is served. My wife's definition of done is when the the kitchen is clean. Who knew? Unless we agree on what "done" means there will be unnecessary friction.
 
@@ -86,6 +86,6 @@ The best 1:1s are focused beyond the moment: Your career development, team strat
 
 - **I am an introvert** and that means that prolonged exposure to people is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I become strangely quiet. Do not confuse my quiet with lack of engagement. I also need quiet reflective time to recharge my batteries. Sometimes I close the door to my office in order to do that, so if my door is closed it's probably for some "me" time. Mostly my door is wide open and it's "you" time.
 
-- **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties (I am not great at small talk). I value candor and the "bottom line up front" (BLUF). Sometimes when people tell me stories I get impatient for them to "land the plane". I've always been this way. I probably need therapy.
+- **I've been called blunt**. My goal is to effectively communicate, but I feel time pressure too. Sometimes I deliver "the goods" without appropriate social niceties (I am not great at small talk). I value candor and the "bottom line up front" (BLUF). Sometimes when people tell me stories I get impatient for them to make their point and "land the plane". I've always been this way (I probably need therapy).
 
-- **People who create drama are a trigger for me**. Some people like to "stir things up". That's not how I am wired and I find it takes away from team cohesiveness and focus. I value people who are motivated by forward progress (not fear). I respect rational problem solvers, and when things go astray look to find and communicate factual information, not hearsay. I love people who focus on root causes instead of assigning blame.
+- **People who create drama are a trigger for me**. Some people enjoy "stirring things up". That's not how I am wired and I find it takes away from team cohesiveness and focus. I value people who are motivated by forward progress (not fear). I respect rational problem solvers, and when things go astray look to find and communicate factual information, not hearsay. I love people who focus on root causes instead of assigning blame.
