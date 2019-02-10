@@ -63,7 +63,7 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 - **My time is your time.** I’ve got responsibilities but very few of them are more important than spending time with you. Feel entirely free to try to catch me ad-hoc via Slack, Skype, or in person, or put time on my calendar to talk whenever you want. I keep my Outlook calendar updated, so any availability you see there is real. You may not find a slot on my calendar in any given day, but if you want to meet I will make it happen. So let me know and I will move things around.
 
-## My role
+## Management Style
 
 This is a team sport. Generally we will make decisions and set priorities as a management team - together we are more perceptive and intelligent than any one of us individually. Occasionally I make a hard call. In all cases your input and counsel is invaluable to me.
 
