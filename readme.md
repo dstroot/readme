@@ -29,7 +29,7 @@ If you're not comfortable giving me feedback yourself that's perfectly OK, you c
 
 My personality type is "Virtuoso" (no, I didn't make that up and you can [test yourself here.](https://www.16personalities.com)).
 
-I copied the description below because it is uncannily accurate. I laughed out loud when I read the quote "Oh, I know how to fix this" in the graphic. I **love** fixing things! I was the kid who took apart all his toys to see how they worked. I "borrowed" my father's tools - he was so frustrated with me until Mom told him he could solve the problem by buying me my own tools (she's brilliant). I built forts, tree houses, go karts, and skate ramps. In high school I learned to weld in metal shop so I added a sidecar to my bike. Good times! I proudly hang the maker manifesto in my office.
+I copied the description below because it is uncannily accurate. I laughed out loud when I read the quote "Oh, I know how to fix this" in the graphic. I **love** fixing things! I was the kid who took apart all his toys to see how they worked. I always "borrowed" my father's tools - he was so frustrated with me until Mom told him he could solve the problem by buying me my own tools (she's brilliant). I built forts, tree houses, go karts, and skate ramps. In high school I learned to weld in metal shop so I added a sidecar to my bike. Good times! I proudly hang the maker manifesto in my office.
 
 ![personality](https://raw.githubusercontent.com/dstroot/readme/master/personality.png)
 
