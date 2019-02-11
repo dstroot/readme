@@ -5,26 +5,6 @@ The following is a user guide for me. Its intention is to give you an idea of ho
 > “Every person in your company is a vector. Your progress is determined by the sum of all vectors.”
 >  — Elon Musk
 
-## Caveat
-
-Take this with a grain of salt - some of it is aspirational. If you find me not living up to my principles please point it out to me. I need feedback to course correct as we all do.
-
-## Feedback
-
-If you have feedback for me, please give it. Even if you think it might not be the case, I _do_ want to hear it. And if you think I don't want to hear it, I'd love feedback on why you feel that way.
-
-Three dimensions are required for robust feedback:
-
-1.  Safety should be high (no fear of retaliation)
-1.  Effort should be low (no rebuttals)
-1.  Benefit should be high (positive results)
-
-Let me know if we do not well on any of these three dimensions and any suggestions you have to improve.
-
-If you can give me feedback in-person, I'd prefer that. If you're only comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
-
-If you're not comfortable giving me feedback yourself that's perfectly OK, you can give it to someone above me so they can anonymously relay it to me and I can work on it.
-
 ## What Motivates Me
 
 My personality type is "Virtuoso" (no, I didn't make that up and you can [test yourself here.](https://www.16personalities.com)).
@@ -63,26 +43,44 @@ _Virtuosos enjoy lending a hand and sharing their experience, especially with th
 
 - **My time is your time.** I’ve got responsibilities but very few of them are more important than spending time with you. Feel entirely free to try to catch me ad-hoc via Slack, Skype, or in person, or put time on my calendar to talk whenever you want. I keep my Outlook calendar updated, so any availability you see there is real. You may not find a slot on my calendar in any given day, but if you want to meet I will make it happen. So let me know and I will move things around.
 
+## Caveat
+
+Take this with a grain of salt - some of it is aspirational. If you find me not living up to my principles please point it out to me. I need feedback to course correct as we all do.
+
+## Feedback
+
+If you have feedback for me, **please** share it. I _do_ want to hear it. If you think I don't want to hear it, or I'm not listening then please give it to someone above me. 
+
+Three dimensions are required for robust feedback:
+
+1.  Safety should be high (no fear of retaliation)
+1.  Effort should be low (no rebuttals)
+1.  Benefit should be high (positive results)
+
+Let me know if we do not well on any of these three dimensions and any suggestions you have to improve.
+
+If you can give me feedback in-person, I'd prefer that. If you're comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
+
+If you're not comfortable giving me feedback yourself that's perfectly OK, please give it to someone above me so they can anonymously relay it to me and I can work on it.
+
 ## Management Style
 
-This is a team sport. Generally we will make decisions and set priorities as a management team - together we are more perceptive and intelligent than any one of us individually. Occasionally I make a hard call. In all cases your input and counsel is invaluable to me.
+This is a team sport. Generally, we will make decisions and set priorities as a management team - together we are more perceptive and intelligent than any of us individually. Occasionally I will make a hard call. In all cases your input and counsel is invaluable to me.
 
 ## Schedule
 
-I am usually in the office early. I like the momentum an early start gives me each day.
-
-As for your schedule: do what works for you. I bias towards results. The way we align on expected results is:
+I am usually in the office early. I like the momentum an early start gives me each day.  As for your schedule: do what works for you. I bias towards results. The way we align on results is:
 
 ## One-on-ones
 
-I will put some time on your calendar for one-on-ones. Chances are it will be for 30 minutes once a week. If you need more time, let me know and I will adjust.
+I will put some time on your calendar for one-on-ones. If you want more (or less) time, let me know and I will adjust.
 
-- Status can be communicated via email or other means
+- Status is better communicated real-time via email or other means. I don't want these to be "status meetings".
 - If something is holding you back **do not save it for a 1:1**. Call me, slack me, email me but let's get it addressed.
 
 I see 1:1s as your opportunity to let me know how you're doing and what you need. It's time for us to align on goals/outcomes and direction.
 
-The best 1:1s are focused beyond the moment: Your career development, team strategy and opportunity, the company's strategy, etc. Feel free to come with a topic you’d like to discuss. I’d love it if you spent a few minutes beforehand preparing so that we can get the most of our time.
+The best 1:1s are focused beyond the moment: Your career development, team strategy and opportuniies, the company's strategy, etc. Feel free to come with a topic you’d like to discuss. I’d love it if you spent a few minutes beforehand preparing so that we can get the most of our time.
 
 ## Nuance
 
